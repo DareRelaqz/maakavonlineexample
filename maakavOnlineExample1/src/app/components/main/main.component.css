@@ -1,0 +1,11 @@
+.container
+{
+    width: 100%;
+}
+
+.top-navbar
+{
+    width: 90%;
+    background-color: red;
+    margin: 0 auto;
+}

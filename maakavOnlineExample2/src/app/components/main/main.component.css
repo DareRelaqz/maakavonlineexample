@@ -1,0 +1,12 @@
+.top-navigation {
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 2%;
+    background-color: rgb(136, 136, 136);
+}
+
+.custom-btn {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
